@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\bin\Debug\net8.0\SobreCargaYOcultamiento.exe
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\bin\Debug\net8.0\SobreCargaYOcultamiento.deps.json
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\bin\Debug\net8.0\SobreCargaYOcultamiento.runtimeconfig.json
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\bin\Debug\net8.0\SobreCargaYOcultamiento.dll
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\bin\Debug\net8.0\SobreCargaYOcultamiento.pdb
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.AssemblyInfo.cs
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.dll
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\refint\SobreCargaYOcultamiento.dll
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.pdb
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\SobreCargaYOcultamiento.genruntimeconfig.cache
+C:\Users\HP\source\repos\SobreCargaYOcultamiento\obj\Debug\net8.0\ref\SobreCargaYOcultamiento.dll
